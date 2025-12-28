@@ -1,0 +1,3 @@
+files:
+  - source: /bot
+    translation: /bot/%locale%/%original_file_name%
