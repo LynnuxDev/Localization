@@ -1,0 +1,9 @@
+commands:
+  work:
+    description: "Work to earn money."
+    success: "You worked and earned {{amount}} coins!"
+    error:
+      cooldown: "You need to wait {{time}} before working again."
+
+messages:
+interactions:
